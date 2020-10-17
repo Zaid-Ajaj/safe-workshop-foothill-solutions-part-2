@@ -1,8 +1,8 @@
-# SAFE-stack workshop
+# SAFE-Stack workshop
 
-Full stack web development with F#
+Full stack web development with F# (part 2)
 
-by Zaid Ajaj on 23rd of August - 2020
+by Zaid Ajaj on 17th of October - 2020
 
 ```
 npm install
