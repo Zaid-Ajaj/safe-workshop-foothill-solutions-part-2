@@ -1,6 +1,6 @@
 var ghPages = require("gh-pages");
 
-var packageUrl = "https://github.com/Zaid-Ajaj/safe-workshop-foothill-solutions.git";
+var packageUrl = "https://github.com/Zaid-Ajaj/safe-workshop-foothill-solutions-part-2.git";
 
 console.log("Publishing to ", packageUrl);
 
